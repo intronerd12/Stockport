@@ -31,7 +31,7 @@ git clone https://github.com/your-username/stockport-logistics-warehouse.git
 - Install PHP and MySQL on your machine if not already installed. You can use tools like XAMPP or MAMP for easier local development setups.
 - Create a database in MySQL for the project. Example:
 ```sql
-CREATE DATABASE stockport_warehouse;
+CREATE DATABASE stockport;
 ```
 
 ### 3. Configure the Database
